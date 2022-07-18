@@ -18,12 +18,6 @@ class TestMainPage:
         "about-us/"
     ]
 
-    @pytest.fixture
-    def driver(self, request):
-        driver = webdriver.Chrome()
-        request.addfinalizer(driver.quit)
-        return driver
-
     @staticmethod
     def open_main_page(driver):
         url = "https://mostly.ai"
