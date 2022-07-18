@@ -1,5 +1,13 @@
 # mostlyai-task
 
+## Disclaimer
+Specific bookmarks that should be checked in the first step are listed in the task:
+Platform, Use Cases, Synthetic Data, Resources and Contact.
+
+Though there is a different set of the bookmarks at the top of the website. I checked them assuming that the task is a bit outdated.
+
+If my assumption is wrong, I will be more than happy to show how Use Cases and Contact bookmarks can be checked. 
+
 ## Prerequisites
 [Install Chrome driver](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/) depending [on your browser version](https://www.whatsmybrowser.org/).
 
